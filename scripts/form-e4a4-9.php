@@ -3,13 +3,13 @@
 require_once('FormProcessor.php');
 
 $form = array(
-    'subject' => 'New Form Submission',
+    'subject' => 'New Quote Submission',
     'email_message' => 'You have a new form submission',
     'success_redirect' => '',
     'sendIpAddress' => true,
     'email' => array(
-    'from' => 'https:&#x2F;&#x2F;www.statements-ltd.com',
-    'to' => 'statements.gh@gmail.com'
+    'from' => 'https:&#x2F;&#x2F;benoitlily.github.io&#x2F;Fabrimetal3&#x2F;https:&#x2F;&#x2F;benoitlily.github.io&#x2F;Fabrimetal3&#x2F;',
+    'to' => 'ghana@fabrimetal.net'
     ),
     'fields' => array(
     'name' => array(
