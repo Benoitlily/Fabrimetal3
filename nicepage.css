@@ -39115,20 +39115,21 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-header .u-sheet-1 {
-    min-height: 237px;
+    min-height: 270px;
   }
 
   .u-header .u-image-1 {
-    margin-top: 17px;
+    margin-top: 23px;
+    margin-left: auto;
   }
 
   .u-header .u-icon-1 {
-    margin-top: -18px;
-    margin-right: 17px;
+    margin-top: 68px;
+    margin-right: 0;
   }
 
   .u-header .u-btn-1 {
-    margin-top: 16px;
+    margin-top: -76px;
     margin-right: auto;
   }
 
