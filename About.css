@@ -1,7 +1,3 @@
- .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url("images/image00138.jpeg");
-}
-
 .u-section-1 .u-sheet-1 {
   min-height: 733px;
 }
@@ -20,7 +16,7 @@
   font-size: 3rem;
   font-weight: 700;
   text-transform: uppercase;
-  margin: -379px 0 60px 570px;
+  margin: -450px 0 60px 570px;
 }
 
 @media (max-width: 1199px) {
@@ -43,7 +39,6 @@
   .u-section-1 .u-text-3 {
     font-size: 1.875rem;
     width: auto;
-    margin-top: -450px;
     margin-right: 81px;
     margin-left: 549px;
   }
@@ -95,12 +90,16 @@
     text-transform: uppercase;
   }
 
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+
   .u-section-1 .u-text-3 {
     font-size: 1.5rem;
     width: 340px;
   }
 } .u-section-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75)), url("images/FabrimetalCatalogue-012022111-03.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.75), rgba(0,0,0,0.75));
 }
 
 .u-section-2 .u-sheet-1 {

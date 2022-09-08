@@ -185,6 +185,10 @@
     min-height: 868px;
   }
 
+  .u-section-1 .u-container-layout-2 {
+    padding: 0;
+  }
+
   .u-section-1 .u-shape-1 {
     height: 865px;
     margin-top: -102px;
@@ -198,6 +202,10 @@
 
   .u-section-1 .u-layout-cell-3 {
     min-height: 209px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding: 0;
   }
 
   .u-section-1 .u-layout-cell-4 {
@@ -315,7 +323,6 @@
 }
 
 .u-section-3 .u-image-1 {
-  background-image: url("images/metal-frame-construction-site-with-blurry-planblack.jpg");
   background-position: 49.72% 100%;
   min-height: 739px;
   --animation-custom_in-translate_x: 0px;
